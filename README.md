@@ -4,4 +4,5 @@
 
 ## Algorithms
 
+[solveMeFirst](./algorithms/solveMeFirst/readme.md)
 [aVeryBigSum](./algorithms/aVeryBigSum/readme.md)
