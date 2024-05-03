@@ -8,3 +8,4 @@
 1. [aVeryBigSum](./algorithms/aVeryBigSum/readme.md)
 1. [simpleArraySum](./algorithms/simpleArraySum/readme.md)
 1. [plusMinus](./algorithms/plusMinus/readme.md)
+1. [birthdayCakeCandles](./algorithms/birthdayCakeCandles/readme.md)
