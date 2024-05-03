@@ -12,3 +12,4 @@
 1. [compare-the-triplets](./algorithms/compareTheTriplets/readme.md)
 1. [miniMaxSum](./algorithms/miniMaxSum/readme.md)
 1. [diagonalDifference](./algorithms/diagonalDifference/readme.md)
+1. [timeConversion](./algorithms/timeConversion/readme.md)
