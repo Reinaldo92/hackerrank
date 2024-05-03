@@ -10,3 +10,5 @@
 1. [plusMinus](./algorithms/plusMinus/readme.md)
 1. [birthdayCakeCandles](./algorithms/birthdayCakeCandles/readme.md)
 1. [compare-the-triplets](./algorithms/compareTheTriplets/readme.md)
+1. [miniMaxSum](./algorithms/miniMaxSum/readme.md)
+1. [diagonalDifference](./algorithms/diagonalDifference/readme.md)
